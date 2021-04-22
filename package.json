@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/caiobas/Alura-NodeJS-REST-API-Express-MySQL/issues"
   },
-  "homepage": "https://github.com/caiobas/Alura-NodeJS-REST-API-Express-MySQL#readme"
+  "homepage": "https://github.com/caiobas/Alura-NodeJS-REST-API-Express-MySQL#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
